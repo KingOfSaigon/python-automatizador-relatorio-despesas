@@ -62,3 +62,7 @@ Script em Python que lê um extrato de transações de um arquivo `.csv`, catego
 
 ---
 ### 📁 Estrutura do Projeto
+├── automatizador_despesas_v2.py  # Script principal com a lógica de automação
+├── config_categorias.py          # Dicionário externo para categorização
+├── extrato.csv                   # Arquivo de exemplo para entrada de dados
+└── requirements.txt              # Lista de dependências do projeto
